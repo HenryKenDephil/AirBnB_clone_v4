@@ -152,11 +152,18 @@ EOF  all  create  destroy  help  quit  show  update
 
 ## Bugs
 No known bugs at this time. 
+#Authors
+HenryKennedy Omoloh - [https://github.com/HenryKenDephil]
 
-## Authors
+## Third part of the Airbnb was developed by:
 Alexa Orrico - [Github](https://github.com/alexaorrico) / [Twitter](https://twitter.com/alexa_orrico)  
 Jennifer Huang - [Github](https://github.com/jhuang10123) / [Twitter](https://twitter.com/earthtojhuang)
 
 Second part of Airbnb: Joann Vuong
 ## License
 Public Domain. No copy write protection. 
+
+#RESTful APIs
+developing a RESTful API
+Adjust database and data storage
+Writing new unittests and code refactoring
