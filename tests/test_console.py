@@ -3,6 +3,8 @@
 Contains the class TestConsoleDocs
 """
 
+import os
+import sys
 import console
 import inspect
 import pep8
