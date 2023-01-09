@@ -164,3 +164,8 @@ Public Domain. No copy write protection.
 developing a RESTful API
 Adjust database and data storage
 Writing new unittests and code refactoring
+
+advancing the application and improving functionalities
+
+
+
